@@ -8,11 +8,11 @@ setuptools.setup(
     version='1.0.0',
     python_requires='>=3.6.0',
     author='Sourav',                          
-    author_email='your_email@gmail.com',      
+    author_email='souravnair314@gmail.com',      
     description='A fruit collecting terminal racing game', 
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/YOUR_USERNAME/fruit_dash', 
+    url='https://github.com/Souravnair07/fruit_dash_project',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
