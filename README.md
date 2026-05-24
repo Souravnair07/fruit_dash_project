@@ -9,7 +9,7 @@ Use the full screen Windows Command Prompt (CMD) or Mac Terminal instead.
 ## How to Run
 
 ### Step 1 — Open full screen terminal
-- **Windows** — Press `Win + R`, type `cmd`, press Enter. Then maximise the window fully. and then go the file location and (python3 -m fruit_dash) to run it 
+- **Windows** — Press `Win + R`, type `cmd`, press Enter. Maximise the window fully.and go to the clone file location   
 - **Mac** — Open Terminal app and maximise the window fully.
 
 ### Step 1 — Clone the repository
@@ -24,7 +24,7 @@ pip install windows-curses
 ```
 Mac and Linux skip this step — curses is built in.
 
-### Step34 — Run the game
+### Step 4 — Run the game
 ```bash
 python -m fruit_dash
 ```
@@ -33,6 +33,10 @@ If that doesn't work try:
 ```bash
 python3 -m fruit_dash
 ```
+
+### Step 5 — Open full screen terminal
+- **Windows** — Press `Win + R`, type `cmd`, press Enter. Maximise the window fully.and go to the clone file location  and run (python -m fruit_dash)
+- **Mac** — Open Terminal app and maximise the window fully.
 
 ## Controls
 
@@ -43,3 +47,4 @@ python3 -m fruit_dash
 | a   | Move Left  |
 | d   | Move Right |
 | q   | Quit       |
+
